@@ -1,0 +1,13 @@
+External reference link for wikipedia wasn't actually referenced. No link was in anchor tag. 
+
+Image missing brackets <>
+<img class ="img-responsive"...etc    >
+
+Javascript file wasn't directing to correct file hence the animation on page wasn't occurring
+
+Color reference was to be incorret buttons (Green button would give orange color text etc.)
+Missing $ sign for one of the javascript refernces (in my case it was for orange color button)
+
+Grow and shrink buttons were missing "" for click hence not registered when mouse clicked
+
+Listing for Boos favourite things was missing tags hence the text weren't formatted properly. <li>___</li> 

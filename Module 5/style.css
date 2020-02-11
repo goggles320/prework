@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p, li {
+    font-size: 15px;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue
+}
+.greed {
+    color: green
+}
+
+.big {
+    font-size: 40px;
+}
+
+.tiny {
+    font-size: 8px;
+}
+
+.middle {
+    text-align: center;
+}
+
+.special {
+    font-size: 30px;
+    font-weight: bold;
+    color: orange
+
+}
+
+.styledFont {
+    color: green
+}
+
+#styledImage {
+    border: 20px solid orange;
+    }
